@@ -16,7 +16,7 @@
   </custom>
 
   <bannerLeft>
-    <title>${project.name}</title>
+    <name>${project.name}</name>
     <src>./img/ogc-logo.png</src>
     <href>http://cite.opengeospatial.org/</href>
   </bannerLeft>
